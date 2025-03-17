@@ -1,0 +1,80 @@
+{
+    "Introduction": {
+        "Title": "Introduction to Python in Kannada",
+        "Content": [
+            "Python ondu high-level, interpreted mathu general-purpose programming language. Idara simplicity mathu readability nimittha popular aagide.",
+            "Idannu <b>Guido van Rossum</b> 1991 ralhi release madidru. Python procedural, object-oriented mathu functional programming na support madutte.",
+            "Python web development, data science, artificial intelligence, automation mathu scientific computing thara vibhinna kshetradalli upayogisal agutte.",
+            "Idara dynamic typing mathu automatic memory management nimittha code yaziruvudu sulabha. Windows, macOS, Linux elladralu smooth agi nadutte.",
+            "Python ondu interactive shell <b>REPL (Read-Eval-Print Loop)</b> kooda provide madutte, idu quick code testing mathu debugging ge upayogavagutte."
+        ]
+    },
+    "Popular": {
+        "Title": "Why Python is popular?",
+        "Content": [
+            "Popular frameworks jothege <b>Django</b> mathu <b>Flask</b> web development ge best, mathu <b>TensorFlow</b> mathu <b>PyTorch</b> AI mathu Machine Learning kshetradalli powerful aagive.",
+            "Python automation ge tumbha upayogi. Web scraping, testing, scripting ella easy agutte.",
+            "Top companies <b>Google</b>, <b>Facebook</b>, <b>Netflix</b>, <b>NASA</b> Python na use maduttave, idu reliable mathu efficient agide annodu torisutte.",
+            "Python easily <b>C</b>, <b>C++</b>, <b>Java</b> jothe integrate madabahudu, idu multi-language projects ge useful agutte.",
+            "Python doddadaru small scripts inda enterprise applications varege ella type projects madalu suitable."
+        ]
+    },
+    "PythonFrameworks": {
+        "Title": "Popular Python Frameworks",
+        "Content": [
+            "Python dali powerful frameworks idave, idu development na easy mathu fast madutte:",
+            "<b>Web Development Frameworks:</b>",
+            "🔹 <b>Django</b> – High-level web framework, built-in authentication, ORM mathu security features idave.",
+            "🔹 <b>Flask</b> – Lightweight mathu flexible framework, chikka projects ge perfect.",
+            "🔹 <b>FastAPI</b> – High-speed API development ge best framework.",
+            "🔹 <b>Pyramid</b> – Chikka mathu doddadaru applications ge best framework.",
+            "🔹 <b>Tornado</b> – Asynchronous framework, real-time analytics mathu live updates ge upayogi.",
+            "<b>AI mathu Machine Learning Frameworks:</b>",
+            "🔹 <b>TensorFlow</b> – Google nalli develop aagida deep learning framework.",
+            "🔹 <b>PyTorch</b> – Facebook na research mathu development framework.",
+            "🔹 <b>Scikit-learn</b> – Simple library, machine learning ge best.",
+            "🔹 <b>Keras</b> – TensorFlow mele built-in high-level API.",
+            "<b>Automation mathu Scripting Frameworks:</b>",
+            "🔹 <b>Selenium</b> – Web browser automation ge best framework.",
+            "🔹 <b>Scrapy</b> – Web scraping mathu data extraction ge use agutte.",
+            "🔹 <b>BeautifulSoup</b> – HTML mathu XML parsing madalu upayogi.",
+            "🔹 <b>Celery</b> – Asynchronous task queue framework.",
+            "<b>Data Science mathu Visualization Frameworks:</b>",
+            "🔹 <b>Pandas</b> – Data manipulation mathu analysis ge best library.",
+            "🔹 <b>NumPy</b> – Numerical computing ge fundamental library.",
+            "🔹 <b>Matplotlib</b> – Static mathu interactive graphs generate madalu upayogi.",
+            "🔹 <b>Seaborn</b> – High-level visualization framework.",
+            "🔹 <b>Plotly</b> – Dynamic dashboards mathu web applications ge best.",
+            "<b>Game Development Frameworks:</b>",
+            "🔹 <b>Pygame</b> – Simple game development library.",
+            "🔹 <b>Panda3D</b> – Disney develop madida 3D game engine.",
+            "🔹 <b>Godot (Python API)</b> – Unity ge lightweight alternative.",
+            "<b>Internet of Things (IoT) Frameworks:</b>",
+            "🔹 <b>MicroPython</b> – Microcontrollers mathu embedded systems ge lightweight version.",
+            "🔹 <b>PyCom</b> – IoT connectivity support maduttade.",
+            "🔹 <b>Zerynth</b> – Microcontrollers ge Python-based programming tool.",
+            "<b>Cybersecurity mathu Hacking:</b>",
+            "🔹 <b>Scapy</b> – Network traffic analysis ge best.",
+            "🔹 <b>Paramiko</b> – SSH connections automation ge use agutte.",
+            "🔹 <b>Pwntools</b> – Ethical hacking mathu penetration testing ge framework."
+        ]
+    },
+    "Installation": {
+        "Title": "Installation of Python",
+        "Content": [
+            "Python na Windows, macOS mathu Linux nalli install madalu simple steps:",
+            "<b>Windows:</b>",
+            "1. Python official website inda download madi: <a href='https://www.python.org/downloads/' style='color: blue;'>https://www.python.org/downloads/</a>",            
+            "2. Installer run madidaga 'Add Python to PATH' tick madabeku.",
+            "3. Command Prompt open madi `python --version` type madi check madi.",
+            "<b>macOS:</b>",
+            "1. macOS nalli Python pre-installed iratte, adhare latest version website inda download madabahudu.",
+            "2. Installer run madi step-by-step instructions follow madi.",
+            "3. Terminal open madi `python3 --version` command type madi check madi.",
+            "<b>Linux:</b>",
+            "1. Linux distributions nalli Python pre-installed iratte.",
+            "2. Ubuntu users ge `sudo apt update` mathu `sudo apt install python3` command run madabeku.",
+            "3. `python3 --version` command use madi installation verify madabahudu."
+        ]
+    }
+}

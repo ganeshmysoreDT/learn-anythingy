@@ -1,0 +1,80 @@
+{
+    "Introduction": {
+        "Title": "Introduction to Python in Tamil",
+        "Content": [
+            "Python oru high-level, interpreted, general-purpose programming language. Idhu simplicity matrum readability nala romba popular.",
+            "Idhai <b>Guido van Rossum</b> 1991 la release panna. Python procedural, object-oriented matrum functional programming support pannum.",
+            "Python web development, data science, artificial intelligence, automation, scientific computing ellathukum use aagum.",
+            "Idhoda dynamic typing matrum automatic memory management nala code eludhuradhu easy. Windows, macOS, Linux ellathulayum smooth-a run aagum.",
+            "Python interactive shell <b>REPL (Read-Eval-Print Loop)</b> kudukkum, idhu quick code testing matrum debugging ku use aagum."
+        ]
+    },
+    "Popular": {
+        "Title": "Why Python is Popular?",
+        "Content": [
+            "Popular frameworks <b>Django</b> matrum <b>Flask</b> web development ku best, <b>TensorFlow</b> matrum <b>PyTorch</b> AI & Machine Learning field la powerful.",
+            "Python automation ku romba useful. Web scraping, testing, scripting ellam easy aagum.",
+            "Top companies <b>Google</b>, <b>Facebook</b>, <b>Netflix</b>, <b>NASA</b> Python use pannura, idhu reliable matrum efficient nu prove aagum.",
+            "Python easily <b>C</b>, <b>C++</b>, <b>Java</b> oda integrate panna mudiyum, idhu multi-language projects ku helpful.",
+            "Python small scripts lendhu large-scale applications varaikum ella project types kum suitable."
+        ]
+    },
+    "PythonFrameworks": {
+        "Title": "Popular Python Frameworks",
+        "Content": [
+            "Python la powerful frameworks irukku, idhu development fast-a panna help pannum:",
+            "<b>Web Development Frameworks:</b>",
+            "🔹 <b>Django</b> – High-level web framework, built-in authentication, ORM, security features irukku.",
+            "🔹 <b>Flask</b> – Lightweight matrum flexible framework, small projects ku perfect.",
+            "🔹 <b>FastAPI</b> – High-speed API development ku best.",
+            "🔹 <b>Pyramid</b> – Small & large applications ku suitable framework.",
+            "🔹 <b>Tornado</b> – Asynchronous framework, real-time analytics matrum live updates ku useful.",
+            "<b>AI & Machine Learning Frameworks:</b>",
+            "🔹 <b>TensorFlow</b> – Google develop pannina deep learning framework.",
+            "🔹 <b>PyTorch</b> – Facebook research & development framework.",
+            "🔹 <b>Scikit-learn</b> – Simple machine learning library.",
+            "🔹 <b>Keras</b> – TensorFlow meedhu build panna high-level API.",
+            "<b>Automation & Scripting Frameworks:</b>",
+            "🔹 <b>Selenium</b> – Web browser automation ku best framework.",
+            "🔹 <b>Scrapy</b> – Web scraping matrum data extraction ku use aagum.",
+            "🔹 <b>BeautifulSoup</b> – HTML & XML parsing panna use aagum.",
+            "🔹 <b>Celery</b> – Asynchronous task queue framework.",
+            "<b>Data Science & Visualization Frameworks:</b>",
+            "🔹 <b>Pandas</b> – Data manipulation matrum analysis ku best library.",
+            "🔹 <b>NumPy</b> – Numerical computing ku fundamental library.",
+            "🔹 <b>Matplotlib</b> – Static matrum interactive graphs generate panna help pannum.",
+            "🔹 <b>Seaborn</b> – High-level visualization framework.",
+            "🔹 <b>Plotly</b> – Dynamic dashboards matrum web applications ku best.",
+            "<b>Game Development Frameworks:</b>",
+            "🔹 <b>Pygame</b> – Simple game development library.",
+            "🔹 <b>Panda3D</b> – Disney develop panna 3D game engine.",
+            "🔹 <b>Godot (Python API)</b> – Unity ku lightweight alternative.",
+            "<b>Internet of Things (IoT) Frameworks:</b>",
+            "🔹 <b>MicroPython</b> – Microcontrollers matrum embedded systems ku lightweight version.",
+            "🔹 <b>PyCom</b> – IoT connectivity support pannum.",
+            "🔹 <b>Zerynth</b> – Microcontrollers ku Python-based programming tool.",
+            "<b>Cybersecurity matrum Hacking:</b>",
+            "🔹 <b>Scapy</b> – Network traffic analysis ku best.",
+            "🔹 <b>Paramiko</b> – SSH connections automation ku use aagum.",
+            "🔹 <b>Pwntools</b> – Ethical hacking matrum penetration testing ku framework."
+        ]
+    },
+    "Installation": {
+        "Title": "Installation of Python",
+        "Content": [
+            "Python Windows, macOS matrum Linux la install panna simple steps:",
+            "<b>Windows:</b>",
+            "1. Python official website lendhu download pannu: <a href='https://www.python.org/downloads/' style='color: blue;'>https://www.python.org/downloads/</a>",            
+            "2. Installer run panna 'Add Python to PATH' tick panna marakama.",
+            "3. Command Prompt open panni `python --version` type panni check pannu.",
+            "<b>macOS:</b>",
+            "1. macOS la Python pre-installed irukkum, but latest version website lendhu download panna mudiyum.",
+            "2. Installer run panni step-by-step instructions follow pannu.",
+            "3. Terminal open panni `python3 --version` command type panni check pannu.",
+            "<b>Linux:</b>",
+            "1. Linux distributions la Python pre-installed irukkum.",
+            "2. Ubuntu users ku `sudo apt update` matrum `sudo apt install python3` command run pannanum.",
+            "3. `python3 --version` command use panni installation verify pannu."
+        ]
+    }
+}

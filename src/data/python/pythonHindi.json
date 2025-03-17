@@ -1,0 +1,80 @@
+{
+  "Introduction": {
+      "Title": "Introduction to Python Programming in Hindi",
+      "Content": [
+          "Python ek high-level, interpreted aur general-purpose programming language hai jo apni simplicity aur readability ke liye jaana jaata hai.",
+          "Isko <b>Guido van Rossum</b> ne banaya tha aur 1991 me release kiya tha. Yeh procedural, object-oriented aur functional programming ko support karta hai.",
+          "Python web development, data science, artificial intelligence, automation aur scientific computing jaise fields me kaafi use hota hai. Iske standard library aur third-party packages development ko fast aur efficient bana dete hain.",
+          "Python ka dynamic typing aur automatic memory management code likhne ki complexity kam karta hai, jo rapid development ke liye perfect hai. Yeh Windows, macOS aur Linux pe bina kisi modification ke smoothly chal sakta hai.",
+          "Python ka interactive shell aur <b>REPL (Read-Eval-Print Loop)</b> developers ko code test aur debug karne me madad karta hai. Iski strong community support ke wajah se naye naye libraries aur improvements milte rehte hain."
+      ]
+  },
+  "Popular": {
+      "Title": "Why Python is popular?",
+      "Content": [
+          "Popular frameworks jaise <b>Django</b> aur <b>Flask</b> fast web development ke liye use hote hain, jabki <b>TensorFlow</b> aur <b>PyTorch</b> Python ko AI aur Machine Learning ke liye ek powerful language banate hain.",
+          "Python automation me bhi best hai, jisme web scraping, testing aur scripting jese tasks aasan ho jaate hain. Iska simple aur readable syntax code maintain karna easy banata hai.",
+          "Top companies jaise <b>Google</b>, <b>Facebook</b>, <b>Netflix</b> aur <b>NASA</b> Python ka use karte hain, jo iski reliability aur efficiency ko dikhata hai.",
+          "Python doosri languages jaise <b>C</b>, <b>C++</b>, aur <b>Java</b> ke sath easily integrate ho sakta hai, jo multi-language projects ke liye helpful hota hai. Iske alawa, Python data visualization me bhi kaafi use hota hai, jisme Matplotlib, Seaborn aur Plotly jese tools help karte hain.",
+          "Itni saari libraries aur frameworks hone ki wajah se, Python chhoti scripts se lekar bade enterprise applications tak, sab kuch banane ke liye ek all-rounder language hai."
+      ]
+  },
+  "PythonFrameworks": {
+      "Title": "Popular Python Frameworks",
+      "Content": [
+          "Python me bohot saare powerful frameworks hain jo development ko aasan aur fast bana dete hain. Yeh rahe kuch popular frameworks:",
+          "<b>Web Development Frameworks:</b>",
+          "🔹 <b>Django</b> – Ek high-level web framework jo 'batteries-included' approach follow karta hai. Isme authentication, ORM, admin panel aur security features already built-in hote hain.",
+          "🔹 <b>Flask</b> – Ek lightweight aur flexible microframework jo chhoti aur medium-sized applications ke liye perfect hai.",
+          "🔹 <b>FastAPI</b> – Ek modern framework jo APIs banane ke liye best hai. Yeh high-speed performance provide karta hai.",
+          "🔹 <b>Pyramid</b> – Ek flexible framework jo chhoti se lekar badi enterprise-level apps ke liye suitable hai.",
+          "🔹 <b>Tornado</b> – Ek asynchronous web framework jo high concurrency applications jaise real-time analytics aur live updates ke liye use hota hai.",
+          "<b>AI aur Machine Learning Frameworks:</b>",
+          "🔹 <b>TensorFlow</b> – Google ka open-source deep learning framework jo AI aur ML models banane ke liye use hota hai.",
+          "🔹 <b>PyTorch</b> – Facebook ka ek powerful framework jo research aur development ke liye popular hai.",
+          "🔹 <b>Scikit-learn</b> – Machine learning ke liye ek simple library jo classification, regression aur clustering jaise tasks handle karti hai.",
+          "🔹 <b>Keras</b> – Ek high-level API jo TensorFlow ke upar kaam karti hai aur deep learning models banane ko easy bana deti hai.",
+          "<b>Automation aur Scripting Frameworks:</b>",
+          "🔹 <b>Selenium</b> – Web browser automation ke liye ek popular framework jo testing aur web scraping ke liye use hota hai.",
+          "🔹 <b>Scrapy</b> – Ek powerful web scraping framework jo data extraction me madad karta hai.",
+          "🔹 <b>BeautifulSoup</b> – HTML aur XML parsing ke liye ek library jo data extraction tasks me kaam aati hai.",
+          "🔹 <b>Celery</b> – Ek distributed task queue framework jo asynchronous tasks ko efficiently handle karta hai.",
+          "<b>Data Science aur Visualization Frameworks:</b>",
+          "🔹 <b>Pandas</b> – Data manipulation aur analysis ke liye ek best library jo structured data ke sath kaam karne me help karti hai.",
+          "🔹 <b>NumPy</b> – Numerical computing ke liye ek fundamental library jo multi-dimensional arrays aur mathematical operations provide karti hai.",
+          "🔹 <b>Matplotlib</b> – Ek visualization library jo static aur interactive graphs banane ke liye use hoti hai.",
+          "🔹 <b>Seaborn</b> – Matplotlib ke upar built ek high-level library jo attractive statistical graphics banane me madad karti hai.",
+          "🔹 <b>Plotly</b> – Ek interactive visualization framework jo dynamic dashboards aur web applications ke liye kaam aata hai.",
+          "<b>Game Development Frameworks:</b>",
+          "🔹 <b>Pygame</b> – Ek simple game development library jo graphics, sounds aur user inputs handle karti hai.",
+          "🔹 <b>Panda3D</b> – Disney dwara develop ki gayi ek 3D game engine jo real-time 3D applications aur simulations banane ke liye use hoti hai.",
+          "🔹 <b>Godot (Python API)</b> – Ek game engine jo Python scripting support karta hai, jo lightweight aur simple alternative hai Unity ke liye.",
+          "<b>Internet of Things (IoT) Frameworks:</b>",
+          "🔹 <b>MicroPython</b> – Ek lightweight Python version jo microcontrollers aur embedded systems ke liye bana hai.",
+          "🔹 <b>PyCom</b> – Ek IoT framework jo Wi-Fi, Bluetooth aur LoRa connectivity support karta hai.",
+          "🔹 <b>Zerynth</b> – Ek Python-based tool jo microcontrollers aur IoT devices program karne ke liye use hota hai.",
+          "<b>Cybersecurity aur Hacking:</b>",
+          "🔹 <b>Scapy</b> – Network traffic analyze karne ka best framework.",
+          "🔹 <b>Paramiko</b> – SSH connections automate karne ke liye use hota hai.",
+          "🔹 <b>Pwntools</b> – Ethical hacking aur penetration testing ke liye ek powerful framework."
+      ]
+  },
+  "Installation": {
+      "Title": "Installation of Python",
+      "Content": [
+          "Python ko Windows, macOS aur Linux par install karne ke simple steps yeh hain:",
+          "<b>Windows:</b>",
+          "1. Python ka latest installer official website se download karein: <a href='https://www.python.org/downloads/' style='color: blue;'>https://www.python.org/downloads/</a>",            
+          "2. Installer run karein aur 'Add Python to PATH' option ko tick karna na bhulein.",
+          "3. Installation ke baad Command Prompt open karein aur `python --version` likhkar verify karein.",
+          "<b>macOS:</b>",
+          "1. macOS me Python pre-installed hota hai. Latest version ke liye, website se installer download karein: https://www.python.org/downloads/",
+          "2. Installer run karein aur on-screen instructions follow karein.",
+          "3. Terminal open karein aur `python3 --version` likhkar check karein.",
+          "<b>Linux:</b>",
+          "1. Zyada Linux distributions me Python pehle se installed hota hai.",
+          "2. Agar install karna ho toh `sudo apt update` aur `sudo apt install python3` command run karein (Ubuntu ke liye).",
+          "3. Terminal me `python3 --version` likhkar verify karein."
+      ]
+  }
+}

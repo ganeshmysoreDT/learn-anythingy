@@ -1,0 +1,75 @@
+{
+    "Introduction": {
+        "Title": "Introduction to Python in Telugu",
+        "Content": [
+            "Python anedhi high-level, interpreted, and general-purpose programming language. Alage idi simple ga untadi and easy ga ardham ayye programming language and readability ki famous.",            "Ee language ni <b>Guido van Rossum</b> 1991 lo create chesaru. Python lo procedural, object-oriented, functional programming methods anni use cheyyachu.",
+            "Python ni websites, AI, automation, scientific research laanti vishayalaku vadataru. Chala mandi developers ki idi favorite language!",
+            "Memory management automatic ga untundi, syntax flexible ga untundi kabatti beginners ki mariyu advanced developers ki idi best choice.",
+            "Python code ni <b>Windows</b>, <b>macOS</b>, <b>Linux</b> lo easy ga run cheyyachu. Live testing ki <b>REPL (Read-Eval-Print Loop)</b> valla debugging kuda chala easy."
+        ]
+    },
+
+    "Popular":   {  
+        "Title": "Why Python is Popular?",
+        "Content": [
+            "<b>Django</b>, <b>Flask</b> laanti frameworks valla web development fast avuthadi. AI and Machine Learning kosam <b>TensorFlow</b>, <b>PyTorch</b> laanti tools untayi.",
+            "Python automation lo baaga use chestharu. Web scraping, testing, scripting tasks chala easy avuthayi. Simple syntax valla code maintainability kuda baaguntadi.",
+            "<b>Google</b>, <b>Facebook</b>, <b>Netflix</b>, <b>NASA</b> laanti pedda companies Python ni valla applications kosam vadutunnayi. Industry lo idi chala reliable and efficient language.",
+            "Python ni <b>C</b>, <b>C++</b>, <b>Java</b> laanti languages tho integrate cheyyachu. Data visualization kosam <b>Matplotlib</b>, <b>Seaborn</b>, <b>Plotly</b> laanti libraries use chestaru.",
+            "Python lo chala libraries and frameworks unnayi, so idi small scripts nundi pedda enterprise applications varaku perfect ga work chestadi."
+        ]
+    },
+
+    "PythonFrameworks": {
+        "Title": "Popular Python Frameworks",
+        "Content": [
+            "Python lo chala powerful frameworks unnayi, vati valla development speed perigipothundi.",
+            "<b>Web Development ki:</b>",
+            "🔹 <b>Django</b> – Ready-made tools tho vastundi, authentication, database integration, security anni inbuilt.",
+            "🔹 <b>Flask</b> – Lightweight mariyu flexible, simple apps ki perfect.",
+            "🔹 <b>FastAPI</b> – High-speed APIs create cheyyadaniki best choice.",
+            "🔹 <b>Pyramid</b> – Flexible web framework, large applications ki suitable.",
+            "🔹 <b>Tornado</b> – High-performance asynchronous framework, WebSockets support untundi, real-time apps ki best.",
+            "<b>AI & Machine Learning ki:</b>",
+            "🔹 <b>TensorFlow</b> – Google create chesina framework, deep learning kosam vadataru.",
+            "🔹 <b>PyTorch</b> – Facebook create chesindi, research and development ki chala famous.",
+            "🔹 <b>Scikit-learn</b> – Machine learning algorithms ki best library.",
+            "<b>Automation & Scripting ki:</b>",
+            "🔹 <b>Selenium</b> – Web automation testing ki use chestaru.",
+            "🔹 <b>Scrapy</b> – Web scraping kosam vadataru, data extraction easy avuthundi.",
+            "🔹 <b>BeautifulSoup</b> – HTML, XML parsing ki best.",
+            "<b>Data Science & Visualization ki:</b>",
+            "🔹 <b>Pandas</b> – Data analysis mariyu manipulation ki best.",
+            "🔹 <b>Matplotlib</b> – Data visualization graphs create cheyyadaniki vadataru.",
+            "🔹 <b>Seaborn</b> – Beautiful mariyu easy-to-use statistical visualizations ki best.",
+            "<b>Game Development ki:</b>",
+            "🔹 <b>Pygame</b> – Simple games create cheyyadaniki chala famous.",
+            "🔹 <b>Panda3D</b> – 3D games mariyu simulations cheyyadaniki Disney develop chesindi.",
+            "<b>IoT (Internet of Things) ki:</b>",
+            "🔹 <b>MicroPython</b> – Small devices mariyu microcontrollers ki lightweight Python version.",
+            "🔹 <b>PyCom</b> – IoT applications ki special ga design chesina framework.",
+            "<b>Cybersecurity & Hacking ki:</b>",
+            "🔹 <b>Scapy</b> – Network traffic analyze cheyyadaniki best framework.",
+            "🔹 <b>Paramiko</b> – SSH connections automate cheyyataniki use avuthundi.",    
+            "🔹 <b>Pwntools</b> – Ethical hacking and penetration testing ki best." 
+        ]
+    },
+    "Installation": {
+        "Title": "Installation of Python",
+        "Content": [
+            "Python ni Windows, macOS, Linux lo easy ga install cheyyachu.",
+            "<b>Windows lo install cheyyali ante:</b>",
+            "1. Python official website nunchi latest version download cheyyandi: <a href='https://www.python.org/downloads/' style='color: blue;'>https://www.python.org/downloads/</a>",            
+            "2. Installer open chesi, 'Add Python to PATH' option select cheyyandi.",
+            "3. Install ayyaka, Command Prompt open chesi `python --version` type cheyyandi, install ayindho ledo telusukovachu.",
+            "<b>macOS lo install cheyyali ante:</b>",
+            "1. macOS lo already Python untundi, but latest version kosam official site nunchi download cheyyandi: <a href='https://www.python.org/downloads/' style='color: blue;'>https://www.python.org/downloads/</a>",
+            "2. Installer ni open chesi step-by-step follow avandi.",
+            "3. Terminal lo `python3 --version` type cheyyandi installation check cheyyataniki.",
+            "<b>Linux lo install cheyyali ante:</b>",
+            "1. Chala Linux distributions lo Python already untundi, but latest version install cheyyali ante package manager use cheyyandi.",
+            "2. Ubuntu users `sudo apt update` taravata `sudo apt install python3` type cheyyandi.",
+            "3. Terminal lo `python3 --version` type chesi installation verify cheyyandi."
+        ]
+    }
+}
